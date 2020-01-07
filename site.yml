@@ -15,7 +15,7 @@ cpus: 1
 #
 # Network Settings
 #
-hostname: example.test
+hostname: week4.test
 ip: 192.168.33.10
 
 #
